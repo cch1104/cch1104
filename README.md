@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Justin Chen 👋
 
-<!--
-**cch1104/cch1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Embedded Systems / Firmware Engineer  
+📍 Taiwan  
+🔧 Currently building projects with STM32L476 & learning FreeRTOS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+**Microcontroller**
+- STM32L476 (ARM Cortex-M4) — GPIO, ADC, Timer, UART, I2C, SPI, EXTI
+
+**Development Tools**
+- STM32CubeMX, STM32CubeIDE, Git, GitHub
+
+**Languages**
+- C (Embedded), Python (basic), Shell (basic)
+
+**Currently Learning**
+- FreeRTOS, Embedded Linux
+
+---
+
+## 🚀 Featured Project
+
+### 🖥️ [STM32L476 Mini Server Monitor](https://github.com/cch1104)
+> A hardware monitoring system simulating core BMC (Baseboard Management Controller) functionalities
+
+- 🌡️ Real-time temperature sensing via **TMP36 + 12-bit ADC**
+- 📺 Custom **LCD 1602A driver** (4-bit parallel mode, no I2C adapter)
+- 🚨 **Dual LED alert system** — green (normal) / red blinking (warning)
+- 📡 **UART data logging** at 115200 baud for remote monitoring
+- Inspired by server BMC architecture: independent monitoring, threshold alerting, event logging
+
+---
+
+## 📂 Other STM32 Projects
+
+| Project | Description | Key Skills |
+|---------|-------------|------------|
+| [ADC Analog Voltmeter](https://github.com/cch1104/L476-ADC1-AnalogVoltmeter) | Real-time voltage measurement display | ADC, LCD |
+| [Interrupt Counter + 4-Digit 7-Seg](https://github.com/cch1104/L476-PJ14-InterruptCounterWI4Digit7Segment) | Hardware interrupt-driven counter | EXTI, GPIO |
+| [Timer + 4-Digit Segment](https://github.com/cch1104/L476-TMR2-4DigitSegmentLEDUpCounter) | Timer-based up counter | TIM, 7-Segment |
+| [External Interrupt LED](https://github.com/cch1104/L476-PJ11-ExtrenalInterrupToControlAnLED) | Debounced interrupt LED control | EXTI, GPIO |
+| [LCD Simple Counter](https://github.com/cch1104/L476-LCD2-SimpleUpCounter) | LCD display counter | LCD, Timer |
+
+---
+
+## 🗺️ Learning Roadmap
+
+```
+✅ STM32 Basics     — GPIO, ADC, UART, Timer, Interrupt
+✅ Display Drivers  — LCD 1602A (4-bit), 7-Segment
+🔄 FreeRTOS         — Multi-task embedded systems
+⬜ Embedded Linux   — Linux driver development
+⬜ OpenBMC          — Server BMC firmware
+```
+
+---
+
+## 📊 GitHub Stats
+
+![cch1104's GitHub stats](https://github-readme-stats.vercel.app/api?username=cch1104&show_icons=true&theme=default&hide_border=true)
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: *[coming soon]*
+- 📧 Email: cch1104@hotmail.com
+
+---
+
+*"Learning by building — one register at a time."* 🔩
