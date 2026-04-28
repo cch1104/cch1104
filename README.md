@@ -15,7 +15,7 @@
 - STM32CubeMX, STM32CubeIDE, Git, GitHub
 
 **Languages**
-- C (Embedded), Python (basic), Shell (basic)
+- C (Embedded), Java (basic), Shell (basic)
 
 **Currently Learning**
 - FreeRTOS, Embedded Linux
