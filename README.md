@@ -31,7 +31,6 @@
 - 📺 Custom **LCD 1602A driver** (4-bit parallel mode, no I2C adapter)
 - 🚨 **Dual LED alert system** — green (normal) / red blinking (warning)
 - 📡 **UART data logging** at 115200 baud for remote monitoring
-- Inspired by server BMC architecture: independent monitoring, threshold alerting, event logging
 
 ---
 
