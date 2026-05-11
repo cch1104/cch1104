@@ -24,7 +24,7 @@
 
 ## 🚀 Featured Project
 
-### 🖥️ [STM32L476 Mini Server Monitor](https://github.com/cch1104)
+### 🖥️ [STM32L476 Mini Server Monitor](https://github.com/cch1104/L476-PWM4-PotentiometerControlDutyCycle.git)
 > A hardware monitoring system simulating core BMC (Baseboard Management Controller) functionalities
 
 - 🌡️ Real-time temperature sensing via **TMP36 + 12-bit ADC**
