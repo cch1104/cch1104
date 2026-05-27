@@ -38,8 +38,8 @@
 
 | Project | Description | Key Skills |
 |---------|-------------|------------|
+| [DAC with DMA](https://github.com/cch1104/L476-HW2-ArbitraryWaveformGen) | Arbitrary Waveform Generator through the built-in DAC, displays waveform type | DAC, DMA, EXTI |
 | [ADC with DMA](https://github.com/cch1104/L476-ADC5-DMA) | Dual-channel ADC using DMA auto-transfer, displays voltage on LCD | ADC, DMA, LCD |
-| [ADC Multiple Inputs](https://github.com/cch1104/L476-ADC2-MultipleInputs) | Multi-channel ADC scan mode for simultaneous inputs | ADC, Scan Mode |
 | [ADC Interrupt Mode](https://github.com/cch1104/L476-ADC3-Interrupt) | ADC conversion triggered and handled via interrupt | ADC, EXTI, NVIC |
 | [Timer + 4-Digit Segment](https://github.com/cch1104/L476-TMR2-4DigitSegmentLEDUpCounter) | Timer-driven up counter on 4-digit 7-segment display | TIM, GPIO |
 | [Multiple EXTI Sharing One Line](https://github.com/cch1104/L476-PJ15-MultipleEXTISharingOneInterruptLine) | Advanced interrupt design — multiple sources on one line | EXTI, NVIC, IRQ |
