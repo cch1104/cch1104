@@ -54,7 +54,7 @@
 ✅ Display Drivers  — LCD 1602A (4-bit), 7-Segment
 ✅ Communication    — UART / I2C / SPI deep application
 ✅ Power Management — Low-power modes & wake-up strategies
-🔄 FreeRTOS         — Multi-task embedded systems
+✅ FreeRTOS         — Multi-task embedded systems
 ```
 
 ---
