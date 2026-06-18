@@ -12,10 +12,10 @@
 - STM32L476 (ARM Cortex-M4) — GPIO, ADC, Timer, UART, I2C, SPI, EXTI
 
 **Development Tools**
-- STM32CubeMX, STM32CubeIDE, Git, GitHub
+- STM32CubeMX, STM32CubeIDE, GitKraken, GitHub
 
 **Languages**
-- C (Embedded), Java (basic), Shell (basic)
+- C (Embedded), Shell (basic)
 
 **Currently Learning**
 - FreeRTOS
