@@ -43,7 +43,7 @@
 | [ADC with DMA](https://github.com/cch1104/L476-ADC5-DMA) | Dual-channel ADC using DMA auto-transfer, displays voltage on LCD | ADC, DMA, LCD |
 | [ADC Interrupt Mode](https://github.com/cch1104/L476-ADC3-Interrupt) | ADC conversion triggered and handled via interrupt | ADC, EXTI, NVIC |
 | [UART](https://github.com/cch1104/L476-USART2-SimpleUpCounter.git) | Simple Up Counter | UART, Putty |
-| [FRTOS](https://github.com/cch1104/L476-FRTOS1-LEDsWiDifferentRates.git) | FRTOS on LEDs with Different Rates | Task scheduling, GPIO control, Usage of osDelay() |
+| [FRTOS](https://github.com/cch1104/L476-FRTOS4-Mutex_UART.git) | FRTOS with Mutex | CMSIS-RTOS2 API, Mutex, UART2 |
 
 ---
 
