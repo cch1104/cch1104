@@ -43,7 +43,7 @@
 | [ADC with DMA](https://github.com/cch1104/L476-ADC5-DMA) | Dual-channel ADC using DMA auto-transfer, displays voltage on LCD | ADC, DMA, LCD |
 | [ADC Interrupt Mode](https://github.com/cch1104/L476-ADC3-Interrupt) | ADC conversion triggered and handled via interrupt | ADC, EXTI, NVIC |
 | [Timer + 4-Digit Segment](https://github.com/cch1104/L476-TMR2-4DigitSegmentLEDUpCounter) | Timer-driven up counter on 4-digit 7-segment display | TIM, GPIO |
-| [Multiple EXTI Sharing One Line](https://github.com/cch1104/L476-PJ15-MultipleEXTISharingOneInterruptLine) | Advanced interrupt design — multiple sources on one line | EXTI, NVIC, IRQ |
+| [FRTOS LEDs with Different Rates](https://github.com/cch1104/L476-FRTOS1-LEDsWiDifferentRates.git) | FRTOS | Task scheduling, GPIO control, Usage of osDelay() |
 
 ---
 
