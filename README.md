@@ -42,7 +42,7 @@
 | [I2C](https://github.com/cch1104/L476-HW3-RandomNumberWithEEPROM.git) | LCD 1602A displaying random number with EEPROM through I2C | LCD, I2C, ADC|
 | [ADC with DMA](https://github.com/cch1104/L476-ADC5-DMA) | Dual-channel ADC using DMA auto-transfer, displays voltage on LCD | ADC, DMA, LCD |
 | [ADC Interrupt Mode](https://github.com/cch1104/L476-ADC3-Interrupt) | ADC conversion triggered and handled via interrupt | ADC, EXTI, NVIC |
-| [Timer + 4-Digit Segment](https://github.com/cch1104/L476-TMR2-4DigitSegmentLEDUpCounter) | Timer-driven up counter on 4-digit 7-segment display | TIM, GPIO |
+| [UART](https://github.com/cch1104/L476-USART2-SimpleUpCounter.git) | Simple Up Counter | UART, Putty |
 | [FRTOS](https://github.com/cch1104/L476-FRTOS1-LEDsWiDifferentRates.git) | FRTOS on LEDs with Different Rates | Task scheduling, GPIO control, Usage of osDelay() |
 
 ---
