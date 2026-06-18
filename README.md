@@ -30,7 +30,6 @@
 - 🌡️ Real-time temperature sensing via **TMP36 + 12-bit ADC**
 - 📺 Custom **LCD 1602A driver** (4-bit parallel mode, no I2C adapter)
 - 🚨 **Dual LED alert system** — green (normal) / red blinking (warning)
-- 📡 **UART data logging** at 9600 baud for remote monitoring
 
 ---
 
