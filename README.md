@@ -18,7 +18,7 @@
 - C (Embedded), Java (basic), Shell (basic)
 
 **Currently Learning**
-- FreeRTOS, Embedded Linux
+- FreeRTOS
 
 ---
 
