@@ -2,7 +2,7 @@
 
 🎯 Aspiring Embedded Systems / Firmware Engineer  
 📍 Taiwan  
-🔧 Currently building projects with STM32L476
+🔧 Currently building projects with STM32 Nucleo-L476RG
 
 ---
 
