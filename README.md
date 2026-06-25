@@ -42,7 +42,8 @@
 | [UART](https://github.com/cch1104/L476-USART2-SimpleUpCounter.git) | Simple Up Counter | UART, Putty |
 | [I2C](https://github.com/cch1104/L476-HW3-RandomNumberWithEEPROM.git) | LCD 1602A displaying random number with EEPROM through I2C | LCD, I2C, ADC|
 | [SPI](https://github.com/cch1104/L476-SPI2-W25QFlash.git) | STM32L476RG + W25Q128 SPI Flash Driver | SPI, UART|
-| [FRTOS](https://github.com/cch1104/L476-FRTOS4-Mutex_UART.git) | FRTOS with Mutex | CMSIS-RTOS2 API, Mutex, UART |
+| [STM32 FreeRTOS Mutex UART](https://github.com/cch1104/L476-FRTOS7-W25QFlash.git) | Demonstrated thread-safe UART communication using a FreeRTOS mutex to synchronize multiple concurrent tasks and prevent data corruption. | FreeRTOS, CMSIS-RTOS2, Mutex, UART, STM32 HAL |
+
 
 ---
 
